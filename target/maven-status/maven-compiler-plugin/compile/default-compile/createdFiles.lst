@@ -1,0 +1,9 @@
+com\demoqa\PageObjects\ControlPage.class
+com\demoqa\PageObjects\UploadDownloadPage.class
+com\demoqa\PageObjects\PracticeFormPage.class
+com\demoqa\Utils\ConfigReader.class
+com\demoqa\Utils\WaitUtils.class
+com\demoqa\PageObjects\SelectMenuPage.class
+com\demoqa\Utils\ExcelUtils.class
+com\demoqa\reports\ExtentManager.class
+com\demoqa\Utils\ScreenshotUtil.class

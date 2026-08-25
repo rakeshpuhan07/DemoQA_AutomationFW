@@ -1,0 +1,9 @@
+com\demoqa\tests\LoginTest.class
+com\demoqa\Base\BaseTest.class
+com\demoqa\listeners\ExtentTestListener.class
+com\demoqa\dataproviders\TestDataProvider.class
+com\demoqa\tests\SelectMenuTest.class
+com\demoqa\tests\FormTest.class
+com\demoqa\tests\ControlTest.class
+com\demoqa\tests\PracticeFormTest.class
+com\demoqa\tests\UploadDownloadTest.class
